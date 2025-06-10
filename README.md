@@ -2,7 +2,7 @@
 
 _Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na FATEC._
 
-<img src="https://raw.githubusercontent.com/KaueBucciotti/KaueBucciotti/main/images/73lxcEZKiFdg.gif" width="100%">
+<img src="https://raw.githubusercontent.com/KaueBucciotti/KaueBucciotti/main/images/73lxcEZKiFdg.gif" width="100%" height="50%">
 
 ## Sobre
 
